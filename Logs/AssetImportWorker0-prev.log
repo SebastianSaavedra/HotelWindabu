@@ -1,0 +1,269 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'es' Physical Memory: 16301 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unity\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/HotelWindabU/HotelWindabu
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53109
+Successfully changed project path to: E:/HotelWindabU/HotelWindabu
+E:/HotelWindabU/HotelWindabu
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 89.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path E:/Unity/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/HotelWindabU/HotelWindabu/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6192
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'E:/Unity/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000969 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.977 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 92.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.164 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 232.9 MB.
+System memory in use after: 233.0 MB.
+
+Unloading 152 unused Assets to reduce memory usage. Loaded Objects now: 5211.
+Total: 5.467000 ms (FindLiveObjects: 0.523500 ms CreateObjectMapping: 0.390600 ms MarkObjects: 4.293000 ms  DeleteObjects: 0.258300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0e235c0f4af3754229b664788db90') in 0.012970 seconds
+  Import took 0.021551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.799950 seconds.
+  path: Assets/05_Models
+  artifactKey: Guid(298949e437f491d4385c1dde7d65bad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models using Guid(298949e437f491d4385c1dde7d65bad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc601dcae39aa0229d3bb086e63f66a') in 0.005913 seconds
+  Import took 0.014236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.323476 seconds.
+  path: Assets/05_Models/Aida 3d.fbx
+  artifactKey: Guid(ee0f2c67f5a3d4549b7610b435794f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d.fbx using Guid(ee0f2c67f5a3d4549b7610b435794f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070ab90716a90f55318a8af45f6a78a1') in 0.911930 seconds
+  Import took 0.920850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.490689 seconds.
+  path: Assets/05_Models/Aida.png
+  artifactKey: Guid(4546f792b899cd74daac7f0eba811672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida.png using Guid(4546f792b899cd74daac7f0eba811672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4652b98d56a554f34eeae3edc563d89') in 0.030167 seconds
+  Import took 0.037964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.055598 seconds.
+  path: Assets/05_Models/Aida 3d.fbx
+  artifactKey: Guid(ee0f2c67f5a3d4549b7610b435794f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d.fbx using Guid(ee0f2c67f5a3d4549b7610b435794f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e80e1118fcc1a582ed14b08e5151270') in 0.036463 seconds
+  Import took 0.047641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.908727 seconds.
+  path: Assets/05_Models/Aida 3d.fbx
+  artifactKey: Guid(ee0f2c67f5a3d4549b7610b435794f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d.fbx using Guid(ee0f2c67f5a3d4549b7610b435794f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e70984b6cc205f2f7aa07ec4d9a849cd') in 0.023956 seconds
+  Import took 0.032981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.692876 seconds.
+  path: Assets/05_Models/Aida 3d1.fbx
+  artifactKey: Guid(a72b309876da6ef4b986519184701efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d1.fbx using Guid(a72b309876da6ef4b986519184701efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55a99287f98c5bb4c86f5fb43746e20') in 0.023513 seconds
+  Import took 0.033315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.659467 seconds.
+  path: Assets/05_Models/Aida 3d.blend
+  artifactKey: Guid(766c24ec91d42f649aea9a2b9a5af8eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d.blend using Guid(766c24ec91d42f649aea9a2b9a5af8eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485b31e292635c0d2a6779e1a47dabdb') in 0.007313 seconds
+  Import took 0.016119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.052037 seconds.
+  path: Assets/05_Models/Aida 3d1.fbx
+  artifactKey: Guid(a72b309876da6ef4b986519184701efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d1.fbx using Guid(a72b309876da6ef4b986519184701efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac7cfad65c673e31a9cdfdc06d7bc08f') in 0.032429 seconds
+  Import took 0.041930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 555.887236 seconds.
+  path: Assets/05_Models/Aida 3d1 1.fbx
+  artifactKey: Guid(6ee7b4b1a1628a549b1d7a17da361481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d1 1.fbx using Guid(6ee7b4b1a1628a549b1d7a17da361481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47008f94e42847f7d15b92f65c06240c') in 0.042604 seconds
+  Import took 0.051624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.194583 seconds.
+  path: Assets/05_Models/Materials/Aida.mat
+  artifactKey: Guid(aad3dc8bc1ca98448aa52055a1d7b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Materials/Aida.mat using Guid(aad3dc8bc1ca98448aa52055a1d7b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd257292a758ff1e00e1e281286a01255') in 0.012516 seconds
+  Import took 0.020105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/04_Shaders/SnapshotShaders/Scenes/Models/LevelGeom.obj
+  artifactKey: Guid(bce72156ec7f32943bf570e2ef2bd78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04_Shaders/SnapshotShaders/Scenes/Models/LevelGeom.obj using Guid(bce72156ec7f32943bf570e2ef2bd78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a568f8f8c4b396698444a491636987e5') in 0.034382 seconds
+  Import took 0.042042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalYellow.mat
+  artifactKey: Guid(71542e61d0dc333418832d62a2de317f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalYellow.mat using Guid(71542e61d0dc333418832d62a2de317f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e892b6d54fa62ba725877f9c5266384') in 0.042165 seconds
+  Import took 0.049937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalPurple.mat
+  artifactKey: Guid(df85a1c88bd7e2e4daa6ca05c39b272e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalPurple.mat using Guid(df85a1c88bd7e2e4daa6ca05c39b272e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503fc5d7a09d30416fb6319a9b7678c2') in 0.011104 seconds
+  Import took 0.018633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/03_Materials/Skybox_Mat.mat
+  artifactKey: Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/03_Materials/Skybox_Mat.mat using Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f101c4f5d80ad68f5a50e3a528e02ec') in 0.094984 seconds
+  Import took 0.102433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalGreen.mat
+  artifactKey: Guid(2e201bdafb16b4b41abd835497aaa04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalGreen.mat using Guid(2e201bdafb16b4b41abd835497aaa04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e80b9f2b34b5776bc686505c82bd2e4a') in 0.010690 seconds
+  Import took 0.020785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/05_Models/Materials/Aida.mat
+  artifactKey: Guid(aad3dc8bc1ca98448aa52055a1d7b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Materials/Aida.mat using Guid(aad3dc8bc1ca98448aa52055a1d7b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd257292a758ff1e00e1e281286a01255') in 0.005904 seconds
+  Import took 0.013802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalBlue.mat
+  artifactKey: Guid(3c10b39a38aed384cb2299466eed7852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalBlue.mat using Guid(3c10b39a38aed384cb2299466eed7852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '080f1c88170ca01e70f07bfc27f5e962') in 0.012461 seconds
+  Import took 0.020572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalRed.mat
+  artifactKey: Guid(eb0fb6a1526fe8f46a80e84ccd05adf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04_Shaders/SnapshotShaders/Scenes/Materials/CrystalRed.mat using Guid(eb0fb6a1526fe8f46a80e84ccd05adf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07f0d6f19afada92de267fcb9a5b23a') in 0.010693 seconds
+  Import took 0.018677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.127757 seconds.
+  path: Assets/05_Models/Aida 3d1 1.fbx
+  artifactKey: Guid(6ee7b4b1a1628a549b1d7a17da361481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d1 1.fbx using Guid(6ee7b4b1a1628a549b1d7a17da361481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fcc047f443da9523129bbb0ab067bbe') in 0.023019 seconds
+  Import took 0.031827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.419515 seconds.
+  path: Assets/05_Models/Aida 3d1 1.fbx
+  artifactKey: Guid(6ee7b4b1a1628a549b1d7a17da361481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d1 1.fbx using Guid(6ee7b4b1a1628a549b1d7a17da361481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33da7b247286db2de0083226f4f3085f') in 0.021406 seconds
+  Import took 0.029417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.051880 seconds.
+  path: Assets/05_Models/Aida 3d1 1.fbx
+  artifactKey: Guid(6ee7b4b1a1628a549b1d7a17da361481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida 3d1 1.fbx using Guid(6ee7b4b1a1628a549b1d7a17da361481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b108f28e8c336cc50aad92e38461da9d') in 0.022388 seconds
+  Import took 0.031357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.731439 seconds.
+  path: Assets/05_Models/Aida.png
+  artifactKey: Guid(4546f792b899cd74daac7f0eba811672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida.png using Guid(4546f792b899cd74daac7f0eba811672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4fff32269ec41ecff52f075fe7fa69') in 0.011949 seconds
+  Import took 0.019850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.416842 seconds.
+  path: Assets/05_Models/Aida.png
+  artifactKey: Guid(4546f792b899cd74daac7f0eba811672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05_Models/Aida.png using Guid(4546f792b899cd74daac7f0eba811672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075523711fdd34d7568fffebbce7655f') in 0.017105 seconds
+  Import took 0.025539 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
